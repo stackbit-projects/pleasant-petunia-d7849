@@ -19,3 +19,5 @@ exclude:
   - node_modules
 baseurl: ''
 url: ''
+
+theme: jekyll-theme-minimal
